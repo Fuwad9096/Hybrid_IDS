@@ -1,0 +1,5 @@
+scapy
+mysql-connector-python
+cryptography
+scikit-learn
+numpy
