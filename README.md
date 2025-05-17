@@ -7,9 +7,10 @@
 git clone https://github.com/Fuwad9096/Hybrid_IDS.git
 ```
 
-**2.** Create a virtual environment in the same directory where `Hybrid_IDS` is located.
+**2.** Create a python virtual environment
 
 ```bash
+cd Hybrid_IDS
 python3 -m venv venv
 source venv/bin/activate
 ```
